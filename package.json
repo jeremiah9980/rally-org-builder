@@ -1,0 +1,24 @@
+{
+  "name": "softball-org-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Config-driven GitHub Pages site for a select softball organization.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "validate": "node scripts/validate-config.js",
+    "theme": "node scripts/generate-theme.js",
+    "new-org": "node scripts/create-new-org.js"
+  },
+  "keywords": [
+    "softball",
+    "github-pages",
+    "static-site",
+    "template"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1"
+  }
+}
