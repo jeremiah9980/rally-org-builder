@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "identity": {
+    "team_name": "Primetime2",
+    "sport": "softball",
+    "age_division": "12U",
+    "city": "Georgetown",
+    "state": "TX",
+    "sanctioning": [
+      "USSSA",
+      "NCS"
+    ],
+    "founded": "2025",
+    "tagline": "Hate us cuz they ain't us",
+    "voice": "elite"
+  },
+  "brand": {
+    "logo_status": "provided",
+    "logo_description": "Softball behind a star with word Primetime",
+    "primary_color": "#F0F0F0",
+    "accent_color": "#D8B713",
+    "background_mood": "light",
+    "partners": []
+  },
+  "governance": {
+    "board": {
+      "seat_count": 5,
+      "seats": [
+        {
+          "name": "Juan Lazo",
+          "represents": "Jesica Cargill"
+        },
+        {
+          "name": "Jeremiah Cargill",
+          "represents": "Open Seat"
+        },
+        {
+          "name": "Team mom",
+          "represents": "open seat"
+        }
+      ],
+      "voting_cadence": "Monthly",
+      "quorum": "3 members present",
+      "decision_domains": [
+        "Dues Changes",
+        "Bylaws",
+        "Operations",
+        "Funding"
+      ]
+    },
+    "executive": {
+      "directors": [
+        {
+          "name": "Jeremiah Cargill",
+          "domains": [
+            "Strategy",
+            "Brand",
+            "Operations"
+          ]
+        },
+        {
+          "name": "Jesica Cargill",
+          "domains": [
+            "Operations",
+            "Team Care",
+            "Family Communications"
+          ]
+        },
+        {
+          "name": "TBD",
+          "domains": [
+            "Coaching talent",
+            "Player development"
+          ]
+        },
+        {
+          "name": "TBD",
+          "domains": [
+            "Fundraising"
+          ]
+        }
+      ]
+    }
+  },
+  "coaching": {
+    "model": "single_head",
+    "head_coaches": [
+      {
+        "name": "Juan Lazo",
+        "bio": "",
+        "years": 10,
+        "background": ""
+      }
+    ],
+    "assistants": [
+      {
+        "name": "David Hill",
+        "focus": "Asst Coach"
+      },
+      {
+        "name": "TBD",
+        "focus": "Fielding"
+      },
+      {
+        "name": "TBD",
+        "focus": "Pitching/Catching"
+      }
+    ],
+    "philosophy": "Old School philosophy",
+    "firewall_policy": "default",
+    "firewall_custom_text": "",
+    "family_first_policy": "default",
+    "family_first_custom_text": ""
+  },
+  "operations": {
+    "annual_dues": "2000",
+    "dues_covers": [
+      "Uniform Package",
+      "Tourn Fees"
+    ],
+    "coach_waivers": "default",
+    "coach_waivers_custom": "",
+    "ops_staff": [],
+    "fundraising_tiers": []
+  },
+  "roster": {
+    "size": 11,
+    "players": [
+      {
+        "first": "Kylie Collins",
+        "last_initial": "R",
+        "number": 5,
+        "slug": "kyliecollins-r"
+      },
+      {
+        "first": "Zoey Arabella Vela",
+        "last_initial": "R",
+        "number": 7,
+        "slug": "zoeyarabellavela-r"
+      },
+      {
+        "first": "Khloe Lazo",
+        "last_initial": "R",
+        "number": 10,
+        "slug": "khloelazo-r"
+      },
+      {
+        "first": "Jordynn Wright",
+        "last_initial": "R",
+        "number": 12,
+        "slug": "jordynnwright-r"
+      },
+      {
+        "first": "Araceli Sophia Noveron",
+        "last_initial": "R",
+        "number": 13,
+        "slug": "aracelisophianoveron-r"
+      },
+      {
+        "first": "Lyla Terrazas",
+        "last_initial": "R",
+        "number": 15,
+        "slug": "lylaterrazas-r"
+      },
+      {
+        "first": "Elena Alejandra Grimaldo",
+        "last_initial": "R",
+        "number": 17,
+        "slug": "elenaalejandragrimaldo-r"
+      },
+      {
+        "first": "Ella Gamble",
+        "last_initial": "R",
+        "number": 24,
+        "slug": "ellagamble-r"
+      },
+      {
+        "first": "Romina Alexandra Trevino",
+        "last_initial": "R",
+        "number": 27,
+        "slug": "rominaalexandratrevino-r"
+      },
+      {
+        "first": "Sophia Texas Hill",
+        "last_initial": "R",
+        "number": 30,
+        "slug": "sophiatexashill-r"
+      },
+      {
+        "first": "Zeriyah Campos",
+        "last_initial": "R",
+        "number": 42,
+        "slug": "zeriyahcampos-r"
+      }
+    ],
+    "default_privacy": "first_name_last_initial",
+    "media_release_status": "needs_drafting",
+    "profile_content_scope": [
+      "stats",
+      "action_photos",
+      "character_quotes",
+      "film_clips"
+    ]
+  },
+  "platform": {
+    "page_type": "rallyiq",
+    "stats_app": "Gamechanger",
+    "comm_app": "Band",
+    "sanctioning_platforms": [
+      "USSSA",
+      "NCS"
+    ],
+    "rallyiq_modules": [
+      "Coach",
+      "Teams",
+      "Profiles",
+      "Fundraise",
+      "Scout",
+      "Org"
+    ],
+    "multi_team": false,
+    "teams": []
+  },
+  "contact": {
+    "primary_name": "Jesica Cargill",
+    "primary_email": "jeremiahcargill@gmail.com",
+    "primary_phone": "4094574112",
+    "public_email": "jcargillx2@gmail.com",
+    "social": {
+      "instagram": "",
+      "facebook": "https://www.facebook.com/profile.php?id=61562686006736"
+    },
+    "tryouts_handler": "David Hill"
+  }
+}
